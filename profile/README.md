@@ -1,8 +1,8 @@
-## Hi there 👋
+## Warehouse Master👋
 "WarehouseMaster" application designed for comprehensive warehouse management, catering to both administrative and operative users. The system ensures secure user authentication and facilitates operational tasks such as loading and removing items for operative users. Administrative users benefit from a centralized dashboard providing real-time insights into item movements, order placements, and temperature monitoring of the refrigerated zone. The application employs proactive notifications to address issues like temperature deviations, low stock, and impending item expirations. Enhanced traceability and task assignment features contribute to streamlined workflow management. Additionally, the system empowers administrative users with detailed warehouse reports, fostering data-driven decision-making and overall operational efficiency.
 
-Coarse-grained Domain Requirements
-User Requirements:
+## Coarse-grained Domain Requirements
+# User Requirements:
 
 There are two types of users: administrative and operative users. Both user types must be able to authenticate to the system.
 
@@ -16,7 +16,7 @@ Place orders when necessary.
 Monitor the temperature of the refrigerated zone.
 Track every item and assign daily tasks to operative users.
 Generate warehouse reports as needed.
-System Requirements:
+# System Requirements:
 
 The system must have the following functionalities:
 
