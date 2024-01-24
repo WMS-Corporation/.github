@@ -20,9 +20,9 @@ Administrative users have the following capabilities:
 
 The system must have the following functionalities:
 
-Notify when the refrigerated zone temperature falls below or exceeds a specified range.
-Notify when an item is going out of stock.
-Notify when an item is nearing its expiration date.
+- Notify when the refrigerated zone temperature falls below or exceeds a specified range.
+- Notify when an item is going out of stock.
+- Notify when an item is nearing its expiration date.
 
 
 <!--
